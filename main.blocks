@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="_IX9SaQ(F.+N]j`u?#L/">mySprite</variable><variable type="KIND_SpriteKind" id="*OH#VtmLetM0RB9(HpM/">Player</variable><variable type="KIND_SpriteKind" id="`dWQy@rK+tMBW7y4[Cmn">Projectile</variable><variable type="KIND_SpriteKind" id="Y7)`r-BAohai`,EKXb)q">Food</variable><variable type="KIND_SpriteKind" id="s]-.s`MQ{}:`MgP0XSwX">Enemy</variable></variables><block type="pxt-on-start" id="F?C@7Ze3m2g0l@O4w^x}" x="0" y="-140"></block><block type="variables_set" id="7yl#:dk5I!X0@k%QrMKX" disabled="true" x="0" y="0"><field name="VAR" id="_IX9SaQ(F.+N]j`u?#L/">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="M86]I,J`O=3p!NNq#X|v" disabled="true"><value name="img"><shadow type="screen_image_picker" id="KHUu*HQKO.RcFcc(^A{u" disabled="true"><field name="img">img`
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 e e 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 e e 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 e e 1 1 1 1 1 1 1 1 
+1 1 1 1 1 e e e 1 1 1 1 1 1 1 1 
+1 1 1 1 1 e e e 1 1 1 1 1 1 1 1 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"KHUu*HQKO.RcFcc(^A{u"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="$fW%4Pg_]`U3CIK@Obim" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block><block type="set_current_tilemap" id="q4}xm@g@p/VC?yd?wZZc" disabled="true" x="0" y="640"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="`E@vB4t(@+F740dVuToY" disabled="true"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level1"}}</data></shadow></value></block></xml>
